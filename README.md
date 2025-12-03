@@ -10,10 +10,10 @@ Reproducible bias audit on the **UCI Adult Income** dataset using **Fairlearn** 
 
 ## 🛠 Tech Stack   
 **Environment:** Google Colab (Jupyter-like interface)   
-**Language:** Python
+**Language:** Python    
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 **Deployment:** Hosted via Google Drive + Colab
 
 ## 🚀 Getting Started
-1. Download the .ipynb file.
-2. Open Colab then open the file.
+1. Open the Notebook link.
+2. Run cells sequentially to execute code and view outputs.
