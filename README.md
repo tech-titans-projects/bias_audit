@@ -11,7 +11,7 @@ Reproducible bias audit on the **UCI Adult Income** dataset using **Fairlearn** 
 ## 🛠 Tech Stack   
 **Environment:** Google Colab (Jupyter-like interface)   
 **Language:** Python    
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn  
 **Deployment:** Hosted via Google Drive + Colab
 
 ## 🚀 Getting Started
